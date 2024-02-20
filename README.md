@@ -5,7 +5,7 @@ My name is Andrew
 Frontend-developer
 ------------------
 
-I am in the 3rd year of my bachelor's degree in software engineering at the Nizhny Novgorod branch of the Higher School of Economics. I have been developing in front-end development for about six months.
+I am in the 3rd year of my bachelor's degree in software engineering at the Nizhny Novgorod branch of the Higher School of Economics. I have been developing in front-end development for about 9 months.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=B-S-B-Rabbit&show_icons=true&count_private=true&theme=tokyonight"><img
            height=150
@@ -18,16 +18,20 @@ I am in the 3rd year of my bachelor's degree in software engineering at the Nizh
 * 🌍  I'm based in Nizhny Novgorod
 * ✉️  You can contact me at [a.v.pomoshnikov@yandex.ru](mailto:a.v.pomoshnikov@yandex.ru)
 * 🚀  I'm currently working on [Web Calculator](http://b-s-b-rabbit.github.io/dist/index.html)
-* 🧠  I'm learning Javascript and React
+* 🧠  I'm learning Vue
 * ⚡  I am developing a film platform website in a team of 3 people
 
 ### Skills
 
 <p align="left">
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/> 
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF"/> 
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  <br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
@@ -53,3 +57,5 @@ I am in the 3rd year of my bachelor's degree in software engineering at the Nizh
 <div width="100%" align="center"><a href="https://github.com/B-S-B-Rabbit/B-S-B-Rabbit.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=B-S-B-Rabbit&repo=B-S-B-Rabbit.github.io&title_color=ef4444&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/B-S-B-Rabbit/BeautifulFront" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=B-S-B-Rabbit&repo=BeautifulFront&title_color=ef4444&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/B-S-B-Rabbit/Using-Language-models-to-simulate-humans-sample" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=B-S-B-Rabbit&repo=Using-Language-models-to-simulate-humans-sample&title_color=ef4444&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/B-S-B-Rabbit/algorithm_lab2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=B-S-B-Rabbit&repo=algorithm_lab2&title_color=ef4444&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center"><a href="https://github.com/B-S-B-Rabbit/KanbanBoard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=B-S-B-Rabbit&repo=KanbanBoard&title_color=ef4444&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
