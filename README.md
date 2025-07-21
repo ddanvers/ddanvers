@@ -1,4 +1,4 @@
-Andrew 21 y.o
+Hi, it's Andrew
 =======================
 
 Frontend-developer
