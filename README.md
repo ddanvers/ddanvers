@@ -5,7 +5,7 @@ My name is Andrew
 Frontend-developer
 ------------------
 
-I am in the 4rd year of my bachelor's degree in software engineering at the Nizhny Novgorod branch of the Higher School of Economics.
+I am a bachelor's degree graduate in software engineering from the Nizhny Novgorod branch of the Higher School of Economics.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=B-S-B-Rabbit&show_icons=true&count_private=true&theme=tokyonight"><img
            height=150
@@ -16,7 +16,7 @@ I am in the 4rd year of my bachelor's degree in software engineering at the Nizh
 
 * 🌍  I'm based in Nizhny Novgorod
 * ✉️  You can contact me at [a.v.pomoshnikov@yandex.ru](mailto:a.v.pomoshnikov@yandex.ru)
-* 🚀  I'm currently working on [GeoGreen](https://github.com/GEOGREEN-PLATFORM/geogreen.web.app)
+* 🚀  I'm currently working on [Launchat](https://github.com/ddanvers/launchat)
 
 ### Socials
 
