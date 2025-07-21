@@ -1,5 +1,4 @@
-Hi 👋 <br>
-My name is Andrew
+Andrew 21 y.o
 =======================
 
 Frontend-developer
