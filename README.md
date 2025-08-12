@@ -7,7 +7,7 @@ Frontend-developer
 I am a bachelor's degree graduate in software engineering from the Nizhny Novgorod branch of the Higher School of Economics.
 * 🌍  I'm based in Nizhny Novgorod
 * ✉️  You can contact me at [a.v.pomoshnikov@yandex.ru](mailto:a.v.pomoshnikov@yandex.ru)
-* 🚀  I'm currently working on [Launchat](https://github.com/ddanvers/launchat)
+* 🚀  I'm currently working on [Untrackly](https://github.com/ddanvers/untrackly)
 
 ### Socials
 
